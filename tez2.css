@@ -1577,7 +1577,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .c-message--dense .c-timestamp__label { color: #949494; }
 
-.c-message--dense .c-message__content_header .c-custom_status { border-color: #363636; }
+.c-message--dense .c-message__content_header .c-custom_status { border-color: #ffffff; }
 
 .dense_theme ts-message { color: #e6e6e6; }
 
