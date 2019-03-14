@@ -416,7 +416,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__editor__warning { color: #bf360c; }
 
-.c-message .c-button { border-color: #424242; }
+.c-message .c-button { border-color: #fffff; }
 
 .c-message .c-button--outline { background-color: #363636; color: #949494; }
 
